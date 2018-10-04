@@ -1,9 +1,9 @@
 # The AfterFight
 
-##Concept
+## Concept
 Move and shoot as you battle against a demon who wants to steal away your soul!
 
-##Genre
+## Genre
 * Single directional Shooter
 * Bullet Hell
 
